@@ -1,0 +1,3 @@
+WASD to move
+Shift to dash
+Left click to attack

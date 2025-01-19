@@ -1,0 +1,2 @@
+WASD to move
+Hold and release T to shoot arrow
